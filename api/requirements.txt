@@ -4,10 +4,10 @@ redis==8.1.0
 python-dotenv==1.2.4
 Flask-JWT-Extended==4.7.4
 Flask-SQLAlchemy==3.1.1
-PyMySQL==1.2.3
+PyMySQL==1.2.4
 cryptography==50.0.2
 rq==3.0.0
 pytesseract==0.3.13
 Pillow==13.0.0
 Flask-Cors==6.0.5
-SQLAlchemy==2.1.6
+SQLAlchemy==2.1.8
